@@ -1,0 +1,1 @@
+Set up my-streamlit-lab with streamlit-env. FastAPI backend running with Wine model at http://127.0.0.1:8000.
